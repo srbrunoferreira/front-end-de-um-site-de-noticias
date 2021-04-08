@@ -33,6 +33,7 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 
 ### Das imagens utilizadas:
 1.	Imagens da prototipagem retiradas do Pexels.
+2.	A logo foi produzida no GIMP.
 
 ### Outras informações:
 1. Programa de prototipagem usado: Justmind.
