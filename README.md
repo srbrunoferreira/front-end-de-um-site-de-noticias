@@ -5,6 +5,8 @@ Criei este projeto com o objetivo de treinar e demonstrar minhas habilidades no 
 
 **Ideia principal: página inicial de um site de notícias para a empresa NewsNow.**
 
+### Você pode olhar o site através deste link: https://srbrunoferreira.github.io/front-end-de-um-site-de-noticias/
+
 ### Exigências:
 1.	O design precisa passar um sentimento de seriedade e profissionalismo.
 2.	A página inicial precisa contemplar a notícia principal do dia, e as demais notícias precisam aparecer, em escalar menor, logo abaixo da manchete.
