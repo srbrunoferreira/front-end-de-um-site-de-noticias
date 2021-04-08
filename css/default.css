@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Merriweather', serif;
+}
+
+/* font-family: 'Merriweather', serif; */
+/* font-family: 'Merriweather Sans', sans-serif; */
+
+body > * {
+  background-color: red;
+  padding: 10px;
+}
+
+#content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#content > * {
+  padding: 10px;
+  background-color: orange;
+}
+
+#content > * > * {
+  background-color: yellow;
+}
