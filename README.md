@@ -38,12 +38,8 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 1. Programa de prototipagem usado: Justmind.
 
 ## Protótipos do design para dispositivos mobile e desktop:
-#### Mobile
-![Protótipo para mobile](prototipo-mobile.png)
-#### Desktop
-![Protótipo para desktop](prototipo-desktop.png)
 
-<div style="display="flex"">
+<div style="display: flex;">
 <img src="prototipo-mobile.png">
 <img src="prototipo-desktop.png">
 </div>
