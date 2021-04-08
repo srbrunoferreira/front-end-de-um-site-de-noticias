@@ -39,7 +39,9 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 
 ## Protótipos do design para dispositivos mobile e desktop:
 
-<div style="display: flex;">
-<img src="prototipo-mobile.png">
-<img style="width: 50%;" src="prototipo-desktop.png">
-</div>
+<table>
+  <tr>
+    <td><img src="prototipo-mobile.png"></td>
+    <td><img src="prototipo-desktop.png"></td>
+  </tr>
+</table>
