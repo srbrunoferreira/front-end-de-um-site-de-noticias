@@ -42,7 +42,7 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 
 <table>
   <tr>
-    <td><img src="prototipo-mobile.png"></td>
-    <td width="75%"><img src="prototipo-desktop.png"></td>
+    <td><img src="project/prototipo-mobile.png"></td>
+    <td width="75%"><img src="project/prototipo-desktop.png"></td>
   </tr>
 </table>
