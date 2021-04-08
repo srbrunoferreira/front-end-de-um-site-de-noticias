@@ -41,5 +41,5 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 
 <div style="display: flex;">
 <img src="prototipo-mobile.png">
-<img src="prototipo-desktop.png">
+<img style="width: 50%;" src="prototipo-desktop.png">
 </div>
