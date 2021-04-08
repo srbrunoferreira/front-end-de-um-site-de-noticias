@@ -42,6 +42,6 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 <table>
   <tr>
     <td><img src="prototipo-mobile.png"></td>
-    <td><img src="prototipo-desktop.png"></td>
+    <td><img src="prototipo-desktop.png" width="80%"></td>
   </tr>
 </table>
