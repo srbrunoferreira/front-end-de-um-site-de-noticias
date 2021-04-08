@@ -39,3 +39,6 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 
 ## Protótipos do design para dispositivos mobile e desktop:
 
+![Protótipo para mobile](prototipo-mobile.png)
+
+![Protótipo para desktop](prototipo-desktop.png)
