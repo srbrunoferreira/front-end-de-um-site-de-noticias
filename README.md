@@ -23,11 +23,6 @@ Criei este projeto com o objetivo de treinar e demonstrar minhas habilidades no 
 1.	Testado nos seguintes navegadores: Chrome, Firefox, Opera e Edge, todos nas últimas versões do dia.
 2.	Testado e otimizado seguindo a ferramenta Lighthouse do navegador Google Chrome.
 
-### Das cores utilizadas:
-1.	https://www.pantone.com/color-finder/Black-3-C
-2.	https://www.pantone.com/color-finder/11-0700-TPG
-3.	https://www.pantone.com/color-finder/2728-C
-
 ### Das fontes utilizadas:
 As fontes utilizas estão hospedadas no site do Google Fonts.
 1.	Merriweather
