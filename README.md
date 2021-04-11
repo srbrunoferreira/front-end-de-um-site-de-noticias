@@ -40,6 +40,12 @@ As fontes utilizas estão hospedadas no site do Google Fonts.
 ### Outras informações:
 1. Programa de prototipagem usado: Justmind.
 
+### Habilidades comprovadas:
+1. CSS grid layout.
+2. Tags HTML voltadas para o SEO da página.
+3. Web design.
+5. Utlização de fontes e imagens com licença grátis (Google Fonts e Pexels).
+
 ## Protótipos do design para dispositivos mobile e desktop:
 
 <table>
